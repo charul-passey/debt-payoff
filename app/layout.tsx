@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Meme Maker AI",
-  description: "Type anything, get a meme. AI-powered meme generator.",
+  title: "Debt Payoff Planner",
+  description: "Avalanche vs Snowball — see which method gets you out of debt faster",
 };
 
 export default function RootLayout({
